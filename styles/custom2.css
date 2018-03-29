@@ -51,10 +51,11 @@ width:800px;
 margin-left:auto;
 margin-right:auto;
 }
-.CodeMirror{
+/*.CodeMirror{
 font-family: "Source Code Pro";
 font-size: 90%;
-}
+}*/
+
 .rendered_html code{
 	background-color: transparent;	
 }
